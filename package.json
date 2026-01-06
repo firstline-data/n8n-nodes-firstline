@@ -1,19 +1,26 @@
 {
   "name": "n8n-nodes-firstline",
   "version": "1.0.0-0",
-  "description": "n8n community node for Firstline API - access company data for Germany and Austria",
+  "description": "n8n node for Firstline API",
   "license": "MIT",
-  "homepage": "",
+  "homepage": "https://github.com/firstline-data/n8n-nodes-firstline",
   "keywords": [
-    "n8n-community-node-package"
+    "n8n-community-node-package",
+    "n8n-nodes",
+    "n8n",
+    "firstline",
+    "firstline-node",
+    "firstline-nodes",
+    "firstline-data",
+    "company-data"
   ],
   "author": {
-    "name": "Lukas",
-    "email": "lukas@firstline.sh"
+    "name": "Firstline Team",
+    "email": "support@firstline.sh"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/firstlineai/n8n-nodes-firstline.git"
+    "url": "https://github.com/firstline-data/n8n-nodes-firstline"
   },
   "scripts": {
     "build": "n8n-node build",
